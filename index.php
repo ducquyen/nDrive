@@ -165,19 +165,6 @@ if (!$noHTML):
         			</div>
         
         		</div>
-        		<div class="panel panel-default">
-        			<div class="panel-heading">
-        				<h3 class="panel-title">Advantages</h3>
-        			</div>
-        			<div class="panel-body">
-        				<ul>
-        					<li>No jQuery dependency</li>
-        					<li>Extremely easy configuration so it looks exactly how you want it to look</li>
-        					<li>Fast fast fast.</li>
-        				</ul>
-        			</div>
-        		</div>
-        
         	</div>
         </div>
     </div>
